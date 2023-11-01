@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Kyle Joseph
+### Hi there 👋  my name is Kyle Joseph
 
 - 😎 Ex-Frontend Engineer at the startup SunnySide 
 - 🤠 Ex-Software Engineer Intern at Siemens EDA
